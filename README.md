@@ -16,7 +16,7 @@
 
 Clone the repository
 ```bash or CMD
-https://github.com/fosetorico/NLP/raw/refs/heads/main/summarizer-data.zip
+https://github.com/fosetorico/text_summarizer_nlp.git
 ```
 
 Create a conda environment after opening the repository
